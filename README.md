@@ -1,18 +1,17 @@
-## Investment Portfolio Analysis based on key risk-managment metrics
+## Investment Portfolio Analysis Based on Key Risk-Management metrics
+---
 
-I'm a quantitative analyst for a FinTech investing platform. 
-I want to offer clients a one-stop investment option.  
-I will use algorithms that will offer a wide range of investment styles and options.
-I will determine the fund with the most investment potential based on : 
-  The daily returns
-  Standard deviations
-  Sharpe ratios
-  Betas
+![<img src="[http://url/image.png" style=](https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_standard/public/GettyImages-1343006928-1401x788-49696df.jpeg?itok=T9RcnyHx)" width:10px ; height:10px " >](https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_standard/public/GettyImages-1343006928-1401x788-49696df.jpeg?itok=T9RcnyHx)
 
+### I'm a quantitative analyst for a FinTech investing platform. 
+### I want to offer clients a one-stop investment option.  
+### I will use algorithms that will offer a wide range of investment styles and options.
+### I will determine the fund with the most investment potential based on : 
+  - ### Daily Returns
+  - ### Standard deviations
+  - ### Sharpe Ratios
+  - ### Betas
 
-
-
-![<img src="http://url/image.png" style=" width:10px ; height:10px " >](https://assets-global.website-files.com/5cc1a690df4e901766e92dcd/5eec416fccc6ff9b674088cf_crypto-trading-p-800.jpeg)
 
 ---
 
