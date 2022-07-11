@@ -24,6 +24,8 @@
 
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
+[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+
 [<img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />](https://pandas.pydata.org/)
 
 [<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/DigitalGoldRush?tab=repositories)
@@ -43,7 +45,16 @@ $ pip install jupyterlab
 ```
 $ pip install notebook
 ```
-
+### To install NumPy on `conda`, use the `defaults` or `conda-forge` channels:
+``` python
+# Best practice, use an environment rather than install in the base env
+conda create -n my-env
+conda activate my-env
+# If you want to install from conda-forge
+conda config --env --add channels conda-forge
+# The actual install command
+conda install numpy
+```
 ### To install Pandas create a new (Python 3) notebook in Jupyter Notebook and then in the prompt enter:
 ```
 $ import pandas
@@ -58,7 +69,6 @@ $ pip install mathplotlib
 ## [Pandas Usage](https://pandas.pydata.org/docs/user_guide/index.html)
 
 ### Pandas has many features, which was used in the code creation, and can be found at the link above. 
-
 
 ## [Mathplotlib](https://matplotlib.org/stable/index.html)
 
