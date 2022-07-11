@@ -1,4 +1,4 @@
-## Investment Portfolio Analysis Based on Key Risk-Management metrics
+## Investment Portfolio Analysis Based on Key Risk-Management Metrics
 ---
 
 ![<img src="[http://url/image.png" style=](https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_standard/public/GettyImages-1343006928-1401x788-49696df.jpeg?itok=T9RcnyHx)" width:10px ; height:10px " >](https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_standard/public/GettyImages-1343006928-1401x788-49696df.jpeg?itok=T9RcnyHx)
